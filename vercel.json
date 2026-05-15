@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/caja_chica_Cons 382.html" },
+    { "source": "/(.*)", "destination": "/caja_chica_Cons 382.html" }
+  ]
+}
