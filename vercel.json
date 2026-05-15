@@ -1,6 +1,6 @@
 {
   "rewrites": [
-    { "source": "/", "destination": "/cajachica-cons382" },
-    { "source": "/(.*)", "destination": "/cajachica-cons382" }
+    { "source": "/", "destination": "/cajachica-cons 382" },
+    { "source": "/(.*)", "destination": "/cajachica-cons 382" }
   ]
 }
